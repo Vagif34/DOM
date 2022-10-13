@@ -1,0 +1,27 @@
+.login{
+   
+    margin-left: 600px;
+    margin-top: 200px;
+}
+.username{
+    width: 30px;
+    height: 35px;
+}
+.email{
+    width: 30px;
+    height: 35px;
+}
+.password{
+    width: 30px;
+    height: 35px;
+}
+.button{
+    position: absolute;
+    margin-left: 45px;
+    top: 320px;
+    
+}
+button{
+    width: 70px;
+    height: 30px;
+}
